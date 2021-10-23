@@ -8,36 +8,83 @@ in this folder, you are in the wrong place.
 
 /* We will start this one off for you: */
 #exerciseOne {
-
-}
+  display: block;
+  text-align: center;}
 
 
 /* Exercise Two: Displaying a Header Bar */
 
 /* Place code here */
-
+#exerciseTwo {
+  display: none;}
 
 
 /* Exercise Three: */
 
 /* Place code here */
-
+#exerciseThree {
+  position: fixed;
+  top: 100px;
+  left: 200ox;}
 
 
 /* Exercise Four: */
 
 /* Place code here */
-
+#exerciseFour {
+  position: fixed;
+  top: 0;
+  left: 0;}
 
 
 /* Exercise Five */
 
 /* Place code here */
+#exerciseFive {
+  display: flex;
+  flex-direction: column;}
 
+.flex-container > div {
+  width: 100px;
+  margin: 10px;
+  text-align: center;}
 
 
 /* Exercise Six */
+#exerciseSix {
+  display:flex;
+  flex-direction: column;}
+
+  .flex-container > div Avion School {
+    width: 100px;
+    margin: 10px;
+    text-align: left;}
+
+  .flex-container > div Pre-Course Lessons {
+    width: 100px;
+    margin: 10px;
+    text-align: right;}
 
 #exerciseSeven {
   display: flex;
-}
+  flex-direction: column;}
+
+  itemOne  {
+    flex-wrap: wrap;
+    justify-content: right;}
+
+  itemTwo {
+    display: flexbox;
+    height: 10px;
+    align-items: center;}
+
+  itemThree {
+    display: flex;
+    height: 300px;
+    justify-content: center;
+    align-items: center;}
+
+  itemFour {
+    display:flex;
+    flex-wrap: nowrap;}
+

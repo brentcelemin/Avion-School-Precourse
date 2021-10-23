@@ -1,0 +1,35 @@
+body {
+    background-color: lightblue;
+    background-image: url("spash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;}
+    
+    
+    div.divClass {
+    width: 500px;
+    text-align: center;
+    margin: auto;}
+    
+    div.spanId {
+    font-size: 18px;
+    margin: 50px;
+    text-align: center;}
+
+    div.thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color:darkgrey;
+    padding: 50px;
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+    margin: auto;}
+
+    h1 {
+    color: darkblue;
+    text-align: center;}
+
+    img {
+    width: 400px;
+    align-self: center;}
